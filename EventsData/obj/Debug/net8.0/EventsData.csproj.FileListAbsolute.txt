@@ -1,0 +1,14 @@
+C:\Users\gilsh\OneDrive\Desktop\הנדסת מחשבים\שנה ג'\סמסטר ב'\פיתוח תוכנת אינטרנט ואפליקציות - צד שרת\מטלה מסכמת\EventsData\obj\Debug\net8.0\EventsData.csproj.AssemblyReference.cache
+C:\Users\gilsh\OneDrive\Desktop\הנדסת מחשבים\שנה ג'\סמסטר ב'\פיתוח תוכנת אינטרנט ואפליקציות - צד שרת\מטלה מסכמת\EventsData\obj\Debug\net8.0\EventsData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilsh\OneDrive\Desktop\הנדסת מחשבים\שנה ג'\סמסטר ב'\פיתוח תוכנת אינטרנט ואפליקציות - צד שרת\מטלה מסכמת\EventsData\obj\Debug\net8.0\EventsData.AssemblyInfoInputs.cache
+C:\Users\gilsh\OneDrive\Desktop\הנדסת מחשבים\שנה ג'\סמסטר ב'\פיתוח תוכנת אינטרנט ואפליקציות - צד שרת\מטלה מסכמת\EventsData\obj\Debug\net8.0\EventsData.AssemblyInfo.cs
+C:\Users\gilsh\OneDrive\Desktop\הנדסת מחשבים\שנה ג'\סמסטר ב'\פיתוח תוכנת אינטרנט ואפליקציות - צד שרת\מטלה מסכמת\EventsData\obj\Debug\net8.0\EventsData.csproj.CoreCompileInputs.cache
+C:\Users\gilsh\OneDrive\Desktop\הנדסת מחשבים\שנה ג'\סמסטר ב'\פיתוח תוכנת אינטרנט ואפליקציות - צד שרת\מטלה מסכמת\EventsData\bin\Debug\net8.0\EventsData.deps.json
+C:\Users\gilsh\OneDrive\Desktop\הנדסת מחשבים\שנה ג'\סמסטר ב'\פיתוח תוכנת אינטרנט ואפליקציות - צד שרת\מטלה מסכמת\EventsData\bin\Debug\net8.0\EventsData.runtimeconfig.json
+C:\Users\gilsh\OneDrive\Desktop\הנדסת מחשבים\שנה ג'\סמסטר ב'\פיתוח תוכנת אינטרנט ואפליקציות - צד שרת\מטלה מסכמת\EventsData\bin\Debug\net8.0\EventsData.dll
+C:\Users\gilsh\OneDrive\Desktop\הנדסת מחשבים\שנה ג'\סמסטר ב'\פיתוח תוכנת אינטרנט ואפליקציות - צד שרת\מטלה מסכמת\EventsData\bin\Debug\net8.0\EventsData.pdb
+C:\Users\gilsh\OneDrive\Desktop\הנדסת מחשבים\שנה ג'\סמסטר ב'\פיתוח תוכנת אינטרנט ואפליקציות - צד שרת\מטלה מסכמת\EventsData\obj\Debug\net8.0\EventsData.dll
+C:\Users\gilsh\OneDrive\Desktop\הנדסת מחשבים\שנה ג'\סמסטר ב'\פיתוח תוכנת אינטרנט ואפליקציות - צד שרת\מטלה מסכמת\EventsData\obj\Debug\net8.0\refint\EventsData.dll
+C:\Users\gilsh\OneDrive\Desktop\הנדסת מחשבים\שנה ג'\סמסטר ב'\פיתוח תוכנת אינטרנט ואפליקציות - צד שרת\מטלה מסכמת\EventsData\obj\Debug\net8.0\EventsData.pdb
+C:\Users\gilsh\OneDrive\Desktop\הנדסת מחשבים\שנה ג'\סמסטר ב'\פיתוח תוכנת אינטרנט ואפליקציות - צד שרת\מטלה מסכמת\EventsData\obj\Debug\net8.0\EventsData.genruntimeconfig.cache
+C:\Users\gilsh\OneDrive\Desktop\הנדסת מחשבים\שנה ג'\סמסטר ב'\פיתוח תוכנת אינטרנט ואפליקציות - צד שרת\מטלה מסכמת\EventsData\obj\Debug\net8.0\ref\EventsData.dll
